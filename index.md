@@ -9,3 +9,7 @@
 text_variable = "Hello World!"
 print(text_variable)
 ```
+## Liste des tâches
+- [x] Premier exercice d'introduction
+- [ ] Exercices markdown
+- [ ] Faire la pause
