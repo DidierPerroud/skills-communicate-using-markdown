@@ -4,3 +4,8 @@
 ###### C'est tout petit
 
 ![Image de Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+text_variable = "Hello World!"
+print(text_variable)
+```
